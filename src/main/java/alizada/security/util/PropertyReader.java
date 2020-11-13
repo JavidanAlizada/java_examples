@@ -1,7 +1,7 @@
 package alizada.security.util;
 
-import alizada.security.auth.PropertyFileName;
-import alizada.security.auth.PropertyKeyValue;
+import alizada.security.property_constant.PropertyFileName;
+import alizada.security.property_constant.PropertyKeyValue;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package alizada.security.auth;
+package alizada.security.property_constant;
 
 public enum PropertyKeyValue {
 

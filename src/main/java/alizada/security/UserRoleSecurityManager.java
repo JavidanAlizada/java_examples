@@ -1,6 +1,6 @@
 package alizada.security;
 
-import alizada.security.auth.PropertyKeyValue;
+import alizada.security.property_constant.PropertyKeyValue;
 import alizada.security.entity.Role;
 import alizada.security.entity.User;
 
